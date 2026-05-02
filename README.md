@@ -47,7 +47,7 @@ A SystemVerilog UART controller featuring asynchronous clock domain crossing, gr
 ## File Structure
 
 ```
-uart_cdc/
+MultiClock-UART-CDC/
 ├── rtl/
 │   ├── sync_2ff.sv          # Double-flop synchronizer
 │   ├── async_fifo.sv        # Async FIFO with gray-code pointers
