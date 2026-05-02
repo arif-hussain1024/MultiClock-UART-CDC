@@ -1,7 +1,6 @@
 # Multi-Clock UART Controller with CDC Verification
 
 **Author:** Arif Hussain
-**Program:** M.S. Electrical and Computer Engineering, University of Florida
 
 A SystemVerilog UART controller featuring asynchronous clock domain crossing, gray-code async FIFOs, APB3 register interface, and comprehensive SVA-based CDC verification.
 
